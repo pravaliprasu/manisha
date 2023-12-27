@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> Now we use html tags </title>
+</head>
+<body>
+<h1> I am good girl </h1>
+<h2> I am good girl </h2>
+</body>
+</html>
